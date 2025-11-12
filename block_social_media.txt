@@ -1,0 +1,7 @@
+(\.|^)twitch\.tv$
+(\.|^)ttvnw\.net$
+(\.|^)twitch\.amazon\.com$
+(\.|^)live-video\.net$
+(\.|^)xboxlive\.com$
+(\.|^)gamepass\.com$
+(\.|^)xboxservices\.com$
